@@ -42,7 +42,7 @@
 **6) Dashboard Preview :** 
 
               Feel free to go through my dashboard available  :)
-        Home Page  -  <img width="1655" height="924" alt="image" src="https://github.com/user-attachments/assets/34a5b1d3-1312-47d3-899f-1244e3727b47" />
+        Home Page  -  HumanSpaceExpeditionDashboard.PNG
 
 
         Slicer Page - https://github.com/ramyasupinfo/HumanSpaceExpeditionInsights/blob/main/HumanSpaceExpeditionDashboardSlicer.PNG
