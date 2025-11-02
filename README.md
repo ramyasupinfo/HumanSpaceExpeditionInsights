@@ -42,7 +42,7 @@
 **6) Dashboard Preview :** 
 
               Feel free to go through my dashboard available  :)
-        Home Page  -  ![Model](https://github.com/ramyasupinfo/HumanSpaceExpeditionInsights/blob/main/HumanSpaceExpeditionDashboard.PNG)
+        Home Page  -  ![alt text](https://github.com/ramyasupinfo/HumanSpaceExpeditionInsights/blob/main/HumanSpaceExpeditionDashboard.PNG)
 
         Slicer Page - https://github.com/ramyasupinfo/HumanSpaceExpeditionInsights/blob/main/HumanSpaceExpeditionDashboardSlicer.PNG
 
