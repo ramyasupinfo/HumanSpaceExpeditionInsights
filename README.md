@@ -43,10 +43,11 @@
 
               Feel free to go through my dashboard available  :)
         Home Page  -  [HumanSpaceExpeditionDashboard.PNG]
-        https://github.com/ramyasupinfo/HumanSpaceExpeditionInsights/blob/e65d9ce9fd141722a6c11ff5cd9b351ce90c5450/HumanSpaceExpeditionDashboard.PNG)
+<img width="1655" height="924" alt="image" src="https://github.com/user-attachments/assets/dc27bca5-7c82-4d4b-bf95-483c84aaed8a" />
 
+        Slicer Page - 
+  <img width="1690" height="923" alt="image" src="https://github.com/user-attachments/assets/26361bd5-27fa-4983-9a44-2f29ecc9be09" />
 
-        Slicer Page - https://github.com/ramyasupinfo/HumanSpaceExpeditionInsights/blob/main/HumanSpaceExpeditionDashboardSlicer.PNG
 
         Thank you for your time :) 
 
